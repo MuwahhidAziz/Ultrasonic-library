@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrasonic	KEYWORD1	Ultrasonic
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getDistance	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Em	LITERAL1
+Pm	LITERAL1
+Tm	LITERAL1
+Gm	LITERAL1
+Mm	LITERAL1
+km	LITERAL1
+hm	LITERAL1
+dam	LITERAL1
+dm	LITERAL1
+cm	LITERAL1
+mm	LITERAL1
+um	LITERAL1
+nm	LITERAL1
+pm	LITERAL1
+fm	LITERAL1
+am	LITERAL1
